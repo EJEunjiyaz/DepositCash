@@ -28,7 +28,7 @@ Installation
     ```
     $ mvn test
     ```
-   All tests must be execute via this command, if you want to test only specific class, you may run
+   All tests must be executed via this command, if you want to test only specific class, you may run
    ```
    $ mvn -Dtest=ClassNameTest test
    ```
