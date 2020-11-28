@@ -1,5 +1,6 @@
-Test Suite
----
+
+
+# C-Store Test Suite
 - AccountPermitTest
     - Test account that is permit or not suspended account.
 - DepositCashTest
@@ -38,7 +39,7 @@ Installation
    
 Developer
 ---
-- Vichyawat Nakarugsa
-- Student ID: 6110545635
-- Software and Knowledge Engineering
-- Kasetsart University
+Vichyawat Nakarugsa\
+Student ID: 6110545635\
+Software and Knowledge Engineering\
+Kasetsart University
