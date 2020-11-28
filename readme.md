@@ -26,15 +26,15 @@ Installation
     ```
 4. Run the command
     ```
-    mvn test
+    $ mvn test
     ```
    All tests must be execute via this command, if you want to test only specific class, you may run
    ```
-   mvn -Dtest=ClassNameTest test
+   $ mvn -Dtest=ClassNameTest test
    ```
    For example,
    ```
-   mvn -Dtest=DepositCashTest test
+   $ mvn -Dtest=DepositCashTest test
    ```
    
 Developer
